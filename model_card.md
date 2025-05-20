@@ -1,3 +1,18 @@
+---
+library_name: efficient-context
+language: python
+tags:
+  - context-optimization
+  - llm
+  - cpu-optimization
+  - resource-constrained
+  - memory-management
+license: mit
+datasets:
+  - None
+---
+
+<!-- filepath: /Users/biswanath2.roul/Desktop/biswanath/office/poc/pypi/190525/efficient-context/model_card.md -->
 # efficient-context
 
 A Python library for optimizing LLM context handling in CPU-constrained environments.
@@ -89,3 +104,4 @@ This project is maintained by [Biswanath Roul](https://github.com/biswanathroul)
 ## License
 
 MIT
+```
